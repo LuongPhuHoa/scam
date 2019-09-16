@@ -12,14 +12,14 @@
 # phishing 2019 | scam-framework by @CesarHackGray
 
 
-# Requisitos
+# Eye
 
-     Scam in 
-     Termux
-     Userland
-     Kali-Linux
-     Ubuntu
-     etc
+    PHP
+    openssh
+    wget
+    curl
+
+   
 
 
 ![Screenshot_20190916-155104_WhatsApp~01](https://user-images.githubusercontent.com/46208706/64996071-27743080-d89a-11e9-8ee2-e6c51825d1f7.jpg)
