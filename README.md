@@ -19,7 +19,19 @@
     wget
     curl
 
-   
+ # Mis redes sociales
+ 
+     Facebook : Cesar Hack Gray
+     YouTube  : http://youtube.com/c/CésarHackGray_Y_Miickeyy
+     Telegram : https://t.me/CesarGray
 
 
 ![Screenshot_20190916-155104_WhatsApp~01](https://user-images.githubusercontent.com/46208706/64996071-27743080-d89a-11e9-8ee2-e6c51825d1f7.jpg)
+
+# Scam in
+   
+    Termux
+    UserLand
+    Ubuntu 
+    kali Linux
+    etc. 
