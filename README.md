@@ -12,7 +12,7 @@
 # phishing 2019 | scam-framework by @CesarHackGray
 
 
-# Eye
+# Requisitos
 
     PHP
     openssh
