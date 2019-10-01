@@ -1,5 +1,4 @@
 <?php
-include 'ip.php';
 $email = test_input($_POST["email_mobile"]);
 $data['email_mobile']=$email;
 $pass = test_input($_POST["pass_mobile"]);
