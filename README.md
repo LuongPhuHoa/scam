@@ -18,6 +18,8 @@
     openssh
     wget
     curl
+    python2
+    
 #### Video de instalasion y uso
 #### https://youtu.be/9Pus_XBbbr4
  # Mis redes sociales
